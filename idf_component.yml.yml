@@ -1,0 +1,7 @@
+dependencies:
+  espressif/esp_wifi: "*"
+  espressif/esp_event: "*"
+  espressif/nvs_flash: "*"
+  espressif/wifi_provisioning: "*"
+  espressif/console: "*"
+  espressif/log: "*"
